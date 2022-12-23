@@ -9,7 +9,7 @@ Now, while researching ideas to stand out as a job portal, I thought I could pro
 
 To do so, I built a candidate recommending system using K-means clustering .There are several ways to go about it, but the problem arises when you have to come up with your own score and metrics that decides what the score of an ideal candidate looks like. Therefore, I chose the K-means method which doesn't require coming up with your own values and just groups candidates with similar characteristics which looks like this:
 
-#### Image to URL
+https://static.wixstatic.com/media/bea86c_08253a777a4e45eea75c75175b67bb0c~mv2.jpg/v1/fill/w_885,h_407,al_c,lg_1,q_85,enc_auto/bea86c_08253a777a4e45eea75c75175b67bb0c~mv2.jpg
 
 Now, before that I had to build a resume scanner which parses the resume and extracts important information. You can read more on that here: https://www.srikar-r.site/post/making-a-resume-parser-getting-past-job-portal-algorithm
 
