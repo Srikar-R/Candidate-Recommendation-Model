@@ -36,7 +36,8 @@ The dataset consists of people's information (name and values changed) which inc
 
 ## Standardizing the dataset
 
-Since the dataset contains variables such as experience and location which is expressed as whole numbers and Skills Perc and Resume Score which are in percentage, it is important to convert them to a common scale. Hence, we normalize it using this formula
+Since the dataset contains variables such as experience and location which is expressed as whole numbers and Skills Perc and Resume Score which are in percentage, it is important to convert them to a common scale. Hence, we normalize it using this formula:
+$$(X-\mu/\sigma)$$
 
 
 ## Making the model
